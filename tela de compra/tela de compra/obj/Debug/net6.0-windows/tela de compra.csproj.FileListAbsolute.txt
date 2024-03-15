@@ -1,0 +1,17 @@
+C:\Users\aluno\Documents\GitHub\projeto\tela de compra\tela de compra\bin\Debug\net6.0-windows\tela de compra.exe
+C:\Users\aluno\Documents\GitHub\projeto\tela de compra\tela de compra\bin\Debug\net6.0-windows\tela de compra.deps.json
+C:\Users\aluno\Documents\GitHub\projeto\tela de compra\tela de compra\bin\Debug\net6.0-windows\tela de compra.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\projeto\tela de compra\tela de compra\bin\Debug\net6.0-windows\tela de compra.dll
+C:\Users\aluno\Documents\GitHub\projeto\tela de compra\tela de compra\bin\Debug\net6.0-windows\tela de compra.pdb
+C:\Users\aluno\Documents\GitHub\projeto\tela de compra\tela de compra\obj\Debug\net6.0-windows\tela_de_compra.Form1.resources
+C:\Users\aluno\Documents\GitHub\projeto\tela de compra\tela de compra\obj\Debug\net6.0-windows\tela_de_compra.Properties.Resources.resources
+C:\Users\aluno\Documents\GitHub\projeto\tela de compra\tela de compra\obj\Debug\net6.0-windows\tela de compra.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\projeto\tela de compra\tela de compra\obj\Debug\net6.0-windows\tela de compra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\projeto\tela de compra\tela de compra\obj\Debug\net6.0-windows\tela de compra.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\projeto\tela de compra\tela de compra\obj\Debug\net6.0-windows\tela de compra.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\projeto\tela de compra\tela de compra\obj\Debug\net6.0-windows\tela de compra.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\projeto\tela de compra\tela de compra\obj\Debug\net6.0-windows\tela de compra.dll
+C:\Users\aluno\Documents\GitHub\projeto\tela de compra\tela de compra\obj\Debug\net6.0-windows\refint\tela de compra.dll
+C:\Users\aluno\Documents\GitHub\projeto\tela de compra\tela de compra\obj\Debug\net6.0-windows\tela de compra.pdb
+C:\Users\aluno\Documents\GitHub\projeto\tela de compra\tela de compra\obj\Debug\net6.0-windows\tela de compra.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\projeto\tela de compra\tela de compra\obj\Debug\net6.0-windows\ref\tela de compra.dll
